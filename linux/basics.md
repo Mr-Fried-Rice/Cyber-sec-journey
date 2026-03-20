@@ -12,7 +12,7 @@
    - cat->(concat) used to read and combine multiple files
    - touch-> used to create individual files(files can be of any type (txt, log etc )).  
 
-# Observations / Mistakes
-  -did not know how to create an individual file -> learned touch command 
-  -didint know rm command had modifiers, failed to delete a directory through rm -> learned rm -d 
-  -didint know how to go back to root after entering a path-> learned just entering "cd" will bring you back to home directory
+ # Observations & mistakes
+   - did not know how to create an individual file -> learned touch command 
+   - didint know rm command had modifiers, failed to delete a directory through rm -> learned rm -d
+   - didint know how to go back to root after entering a path-> learned just entering "cd" will bring you back to home directory
